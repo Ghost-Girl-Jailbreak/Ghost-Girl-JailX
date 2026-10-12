@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animated Star Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=900&height=100&lines=%E2%98%85+GHOST+GIRL+JAILX+%E2%98%85;PS3+JAILBREAK+SUITE;v1.7.2+RELEASING+SOON..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=900&height=100&lines=%E2%98%85+GHOST+GIRL+JAILX+%E2%98%85;PS3+JAILBREAK+SUITE;TWO+VERSIONS+%E2%80%94+EVILNAT+%2B+HEN;v1.7.2+RELEASING+SOON..." alt="Typing SVG" />
 
 <br/>
 
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/VERSION-1.7.2--SOON-FFD700?style=for-the-badge&logo=ghost&logoColor=000000&labelColor=4B0082" />
   <img src="https://img.shields.io/badge/PLATFORM-PS3-FFD700?style=for-the-badge&logo=playstation&logoColor=000000&labelColor=4B0082" />
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=for-the-badge&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/VARIANTS-EVILNAT_%2B_HEN-FFD700?style=for-the-badge&labelColor=4B0082" />
 </p>
 
 <!-- Animated Purple + Gold Star Divider -->
@@ -45,13 +46,107 @@
 
 </div>
 
-**Ghost Girl JailX** is a custom-built PS3 jailbreak ZIP designed to make jailbreaking your PlayStation 3 as smooth as possible. Everything you need — bundled, tested, and ready to drop onto a USB.
+**Ghost Girl JailX** is a custom-built PS3 jailbreak package designed to make jailbreaking your PlayStation 3 as smooth as possible. Everything you need — bundled, tested, and ready to drop onto a USB.
+
+**Ghost Girl JailX ships in TWO different versions:**
+
+| 🎮 Version | 📦 Filename | 🔧 Type |
+|-----------|------------|---------|
+| ⚡ **Evilnat Edition** | `GhostGirlJailXEvnat.zip` | Full Custom Firmware (CFW) |
+| 🌐 **HEN Edition** | `GhostGirlJailXHen.xip` | HEN (Homebrew Enabler) |
 
 > 👻 **v1.7.2 is releasing soon!** Star ⭐ this repo and watch the [Releases](../../releases) page.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
+
+---
+
+<div align="center">
+
+## ⚖️ <span style="color:#FFD700;">E</span><span style="color:#FFC700;">V</span><span style="color:#FFB800;">I</span><span style="color:#FFA800;">L</span><span style="color:#FFD700;">N</span><span style="color:#FFC700;">A</span><span style="color:#FFB800;">T</span> <span style="color:#FFA800;">V</span><span style="color:#FFD700;">S</span> <span style="color:#FFC700;">H</span><span style="color:#FFB800;">E</span><span style="color:#FFA800;">N</span> <span style="color:#FFD700;">—</span> <span style="color:#FFC700;">W</span><span style="color:#FFB800;">H</span><span style="color:#FFA800;">I</span><span style="color:#FFD700;">C</span><span style="color:#FFC700;">H</span> <span style="color:#FFB800;">O</span><span style="color:#FFA800;">N</span><span style="color:#FFD700;">E</span> <span style="color:#FFC700;">?</span>
+
+</div>
+
+Both versions jailbreak your PS3 — but they work **very differently** and each has trade-offs. **Read carefully** before downloading.
+
+---
+
+### ⚡ Evilnat Edition — `GhostGirlJailXEvnat.zip`
+
+**Full Custom Firmware (CFW)**
+
+> 🔥 *"The real deal — permanent jailbreak."*
+
+<div align="center">
+
+| ✅ **Pros** | ❌ **Cons** |
+|------------|-----------|
+| 🔒 **Permanent** — install once, stays forever | ⚠️ **Higher risk** if interrupted mid-flash |
+| 🚀 **More features** — full system access | 🚫 **Only works on CFW-compatible PS3s** (see below) |
+| 🎮 **Better homebrew compatibility** | 🧱 **Can brick** if power is lost during install |
+| 🌐 **Deeper system patching** | 🔧 **Requires PS3 Toolset patch first** on most models |
+| 💾 **PS2/PS1 backups** supported | ⏳ **Longer install process** |
+| 🔓 **No need to re-enable** after reboot | 🚫 **Not supported on Super Slim** models |
+
+**Supported consoles:**
+- ✅ PS3 **Fat** (CECHA–CECHG)
+- ✅ PS3 **Slim** (CECH-20xx–25xx)
+- ❌ PS3 **Super Slim** (CECH-4xxx) — use HEN instead
+
+</div>
+
+---
+
+### 🌐 HEN Edition — `GhostGirlJailXHen.xip`
+
+**HEN (Homebrew Enabler)**
+
+> 💡 *"The safe, universal option — works on almost every PS3."*
+
+<div align="center">
+
+| ✅ **Pros** | ❌ **Cons** |
+|------------|-----------|
+| 🛡️ **Safer** — much lower brick risk | 🔁 **Temporary** — must re-enable after each reboot |
+| 🌍 **Works on ALL PS3s** including Super Slim | 🚫 **Fewer features** than full CFW |
+| ⚡ **Quick install** | ❌ **No PS2 backup support** |
+| 🔧 **No flash patching required** | ⚠️ **Some homebrew won't run** |
+| 🧪 **Easy to remove / revert** | 🐢 **Slightly slower performance** |
+| 🎮 **Great for testing** | 🔓 **Must re-launch HEN after every cold boot** |
+
+**Supported consoles:**
+- ✅ PS3 **Fat**
+- ✅ PS3 **Slim**
+- ✅ PS3 **Super Slim** (CECH-4xxx) — **HEN only**
+
+</div>
+
+---
+
+### 🧭 Quick Comparison Table
+
+| Feature | ⚡ Evilnat | 🌐 HEN |
+|---------|----------|--------|
+| Permanent jailbreak | ✅ Yes | ❌ No (temporary) |
+| Works on Super Slim | ❌ No | ✅ Yes |
+| Brick risk | ⚠️ Higher | 🛡️ Lower |
+| PS2 backups | ✅ Yes | ❌ No |
+| Requires flash patch | ✅ Yes | ❌ No |
+| Re-enable after reboot | ❌ No | ✅ Yes |
+| Homebrew compatibility | 🟢 Excellent | 🟡 Good |
+| Install time | ⏳ Longer | ⚡ Faster |
+
+---
+
+### 🎯 Which One Should You Pick?
+
+- **You have a Fat or Slim PS3 and want the best experience?** → ⚡ **Evilnat Edition**
+- **You have a Super Slim, or want zero brick risk?** → 🌐 **HEN Edition**
+- **Not sure?** → Start with **HEN**, then move to Evilnat later if you want.
+
+> ⚠️ **NEVER** flash Evilnat on a Super Slim — it will brick the console. HEN is the only safe option for Super Slims.
 
 ---
 
@@ -68,7 +163,7 @@
 | 👻 | **All-in-One** | Full jailbreak package in one ZIP |
 | 🛠️ | **Easy Install** | Simple USB drop-and-go process |
 | 🔒 | **Safe & Tested** | Verified on supported firmware |
-| 🎮 | **CFW + HEN** | Supports both jailbreak paths |
+| 🎮 | **Two Variants** | Evilnat CFW + HEN editions |
 | 📦 | **Lightweight** | Small download, big payoff |
 | 🆕 | **Maintained** | Actively updated by the team |
 
@@ -101,11 +196,27 @@ See [`docs/COMPATIBILITY.md`](docs/COMPATIBILITY.md) for the full list.
 
 <div align="center">
 
+### ⚡ Evilnat Edition
+
 <a href="../../releases">
-  <img src="https://img.shields.io/badge/⬇_DOWNLOAD_GHOST_GIRL_JAILX-FFD700?style=for-the-badge&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/⬇_DOWNLOAD_GhostGirlJailXEvnat.zip-FFD700?style=for-the-badge&labelColor=4B0082" />
 </a>
 
-**The ZIP will be available in Releases when v1.7.2 drops.** 👻
+**For Fat & Slim PS3s. Full permanent CFW.**
+
+<br/>
+
+### 🌐 HEN Edition
+
+<a href="../../releases">
+  <img src="https://img.shields.io/badge/⬇_DOWNLOAD_GhostGirlJailXHen.xip-FFD700?style=for-the-badge&labelColor=4B0082" />
+</a>
+
+**For ALL PS3s including Super Slim. Safe & temporary.**
+
+<br/>
+
+**Both files will be available in Releases when v1.7.2 drops.** 👻
 
 </div>
 
@@ -120,11 +231,15 @@ See [`docs/COMPATIBILITY.md`](docs/COMPATIBILITY.md) for the full list.
 Full guide: [`docs/INSTALLATION.md`](docs/INSTALLATION.md)
 
 **Quick steps:**
-1. 📥 Download latest `GhostGirlJailX-vX.X.X.zip`
-2. 💾 Extract to root of a FAT32 USB drive
-3. 🎮 Insert USB into PS3
-4. ⚙️ Follow on-screen installer
-5. 🔁 Reboot & enjoy
+1. 📥 Download the ZIP/XIP that matches **your PS3 model**
+2. 📂 Extract to a folder on your PC
+3. 💾 Format a USB stick to **FAT32** (MBR)
+4. 📁 Copy all files to the **root** of the USB
+5. ⏏️ Safely eject the USB
+6. 📡 On your PS3: turn **Wi-Fi OFF** and **Auto Sign-In OFF**, wait 1–2 min on home screen
+7. 🔌 Power off the console, plug USB into the **right front port**
+8. 🎮 Boot the PS3 → go to **Settings → System Update → Update via Storage Media**
+9. ✅ Confirm, install, and let it reboot — you're jailbroken!
 
 ---
 
@@ -164,7 +279,7 @@ Full guide: [`docs/INSTALLATION.md`](docs/INSTALLATION.md)
 ### ⚡ <span style="color:#FFD700;">Evilnat</span>
 **Custom Firmware (CFW)**
 
-The CFW base that powers Ghost Girl JailX on compatible consoles.
+The CFW base that powers Ghost Girl JailX Evilnat Edition.
 
 👤 **Developer:** [Evilnat](https://github.com/Evilnat)
 🔗 **Repo:** [github.com/Evilnat/Evilnat-CFW](https://github.com/Evilnat/Evilnat-CFW)
@@ -196,7 +311,7 @@ Lightweight web-based manager for launching games, controlling fan speed, and ma
 
 One of the most iconic PS3 backup managers — rips, launches, and organizes your game backups.
 
-👤 **Developer:** [DeanK](https://www.psx-place.com/) (Dean Kasabow)
+👤 **Developer:** DeanK (Dean Kasabow)
 🔗 **Thread:** [psx-place.com multiMAN thread](https://www.psx-place.com/threads/multiman.20970/)
 📜 **License:** Freeware / Community
 
