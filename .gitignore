@@ -1,0 +1,17 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.zip
+*.pkg
+*.bin
+!assets/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
